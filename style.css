@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#9df0ee;
+   
+}
+header{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+    
+}
+header a{
+    text-decoration: none;
+    
+}
+h1{
+    color: #023535;
+}
+span{
+    color: #023535;
+}
+main, header{
+    background-color:#9df0ee;
+}
+main{
+    text-align: justify;
+    padding-left: 20px;
+}
+.teste{
+    padding-top: 20px;
+    width: 500px;
+}
+.imagemPrincipal{
+    padding: 20px 0;
+    width: 50%;
+    height: 50%;
+}
+.imagemPrincipal{
+    display: block;
+    margin-right: auto;
+}
+.imagemSecond{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+}
